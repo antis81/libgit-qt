@@ -1,0 +1,8 @@
+# ignore libgit2 extra stuff
+libgit2/.*
+libgit2/appveyor*
+libgit2/examples/
+libgit2/git*
+libgit2/script/
+libgit2/tests/
+
